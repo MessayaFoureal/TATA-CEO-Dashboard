@@ -10,15 +10,19 @@ I am pleased to introduce the TATA Retail Dashboard, a powerful tool designed to
 ## Problem statement (CEO & CMO Request)
 ### Question 1
 The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
+![](Revenue-by-year.JPG)
 
 ### Question 2
 The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual.
+![](Revenue-and-Quantity-by-country.JPG)
 
 ### Question 3
 The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.
+![](Top-10-customers-and-year.JPG)
 
 ### Question 4
 The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
+![](World-trade-map.JPG)
 
 ## Skills/Concepts demonstrated
 1. Excel data import to Power BI
@@ -30,8 +34,9 @@ The CEO is looking to gain insights on the demand for their products. He wants t
 5. Visualization
 
 ## Visualisation (Dashboard)
+![](Capture.JPG)
 _You can interact with the report_ [here](https://app.powerbi.com/groups/me/reports/bd707ec5-4c56-43bf-9a35-8197c637db60/ReportSection?experience=power-bi)
-![](TATA-data-analysis-2.pdf)
+
 
 ## Conclusion 
 In conclusion, the TATA Retail Dashboard represents a significant milestone in our journey towards data-driven excellence. With a focus on revenue insights from across the globe, this dashboard stands as a testament to our commitment to innovation and informed decision-making.
